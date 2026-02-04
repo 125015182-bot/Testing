@@ -1,0 +1,2 @@
+for pylint 
+pylint --generate-rcfile > .pylintrc
