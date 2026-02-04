@@ -1,3 +1,4 @@
+
 print("Hello from test.py!")
 
 
@@ -6,3 +7,6 @@ def add():
 
 
 print(add())
+
+print("hello world")
+print("Hello from test.py!")
